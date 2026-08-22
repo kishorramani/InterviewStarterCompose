@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.interviewstarter.app-mergeDevDebugResources-54:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/kishorramani/.gradle/caches/8.13/transforms/0dad81464dc1865985910b871afbb36d/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
